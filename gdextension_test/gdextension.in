@@ -1,0 +1,5 @@
+[configuration]
+entry_symbol = "@GDEXTENSION_ENTRY_POINT@_library_init"
+
+[libraries]
+windows.64 = "@TARGET@.dll"
