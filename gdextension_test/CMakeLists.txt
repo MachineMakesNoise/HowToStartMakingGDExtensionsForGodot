@@ -1,5 +1,5 @@
 # Setup requirement for this build file.
-CMAKE_MINIMUM_REQUIRED(VERSION 3.24 FATAL_ERROR)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.23 FATAL_ERROR)
 # Setup project name.
 PROJECT(gdextension_test)
 # Calculate target bit count if not given. 
