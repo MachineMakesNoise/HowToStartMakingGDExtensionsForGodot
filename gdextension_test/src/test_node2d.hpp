@@ -6,8 +6,7 @@
 
 namespace gdextension_test
 {
-  using godot::Node2D;
-  using godot::String;
+  using namespace godot;
 
   class TestNode2D : public Node2D
   {
